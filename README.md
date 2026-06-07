@@ -106,8 +106,8 @@ Accuracy:
 ---
 
 ## Repository Structure
-Sentiment-Analysis/
+ml capstone project/
 │
-├── Sentiment_Analysis.ipynb
+├── notebook.ipynb
 ├── IMDB Dataset.csv
 └── README.md
