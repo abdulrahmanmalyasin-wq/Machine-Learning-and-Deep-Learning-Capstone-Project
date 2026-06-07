@@ -106,3 +106,8 @@ Accuracy:
 ---
 
 ## Repository Structure
+Sentiment-Analysis/
+│
+├── Sentiment_Analysis.ipynb
+├── IMDB Dataset.csv
+└── README.md
